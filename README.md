@@ -2,7 +2,9 @@
 Red Light Green Light game using JavaScript especially three.js.
 
 GLTF Loader and three.min.js referenced from: https://github.com/mrdoob/three.js
+
 Loaded javascript animation library gsap: https://greensock.com/gsap/
+
 Doll model taken from: https://sketchfab.com/3d-models/squid-game-giant-doll-7afd49dd07714651a6afa1fc4aac8576
 
 All the referenced codes used in this project are from the above websites and 
